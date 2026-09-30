@@ -6,12 +6,22 @@ A simple Python CLI tool for ASCII conversion and text encoding.
 2.Characters to ASCII value conversion <br>
 3.Text to ASCII values conversion <br>
 
-#Requirements <br>
+# Requirements <br>
 -Python 3.x <br>
 
-#Installation and usage <br>
+# Installation and usage <br>
 git clone https://github.com/MicKSecurity/ascii_cli_tool <br>
 
 cd ascii_cli_tool <br>
 
 python main.py <br>
+
+
+
+## Author <br>
+**Mick Security** https://github.com/MicKSecurity
+
+
+## License 
+Copyright © 2026 MickSecurity. All rights reserved.
+See the [LICENSE](LICENSE) file for details.
